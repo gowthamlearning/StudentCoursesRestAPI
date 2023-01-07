@@ -6,3 +6,4 @@ images:
   - name: courses
     newName: shaikkhajaibrahim/courses
     newTag: prod-latest
+namespace: prod # kustomize-feature list
